@@ -1,0 +1,126 @@
+2024-11-19 22:23:23,705 - INFO - Page 1 processed successfully.
+2024-11-19 22:23:35,126 - INFO - Page 2 processed successfully.
+2024-11-19 22:23:46,631 - INFO - Page 3 processed successfully.
+2024-11-19 22:23:58,649 - INFO - Page 4 processed successfully.
+2024-11-19 22:24:10,034 - INFO - Page 5 processed successfully.
+2024-11-19 22:24:21,293 - INFO - Page 6 processed successfully.
+2024-11-19 22:24:32,906 - INFO - Page 7 processed successfully.
+2024-11-19 22:24:45,409 - INFO - Page 8 processed successfully.
+2024-11-19 22:24:56,842 - INFO - Page 9 processed successfully.
+2024-11-19 22:25:08,056 - INFO - Page 10 processed successfully.
+2024-11-19 22:25:18,088 - INFO - Data written to file successfully.
+2024-11-19 22:25:18,105 - ERROR - An unexpected error occurred: Invalid metric name: Number of car information retrieved
+2024-11-19 22:25:18,122 - INFO - Starting data processing.
+2024-11-19 22:25:18,140 - INFO - Reading downloaded file.
+2024-11-19 22:25:18,157 - INFO - Cleaning data.
+2024-11-19 22:25:18,173 - INFO - Saving data to database.
+2024-11-19 22:25:18,946 - INFO - Moving file to archive.
+2024-11-19 22:25:18,963 - INFO - Data processing completed.
+2024-11-19 22:28:48,179 - INFO - Page 1 processed successfully.
+2024-11-19 22:28:59,684 - INFO - Page 2 processed successfully.
+2024-11-19 22:29:11,003 - INFO - Page 3 processed successfully.
+2024-11-19 22:29:24,615 - INFO - Page 4 processed successfully.
+2024-11-19 22:29:36,616 - INFO - Page 5 processed successfully.
+2024-11-19 22:29:47,969 - INFO - Page 6 processed successfully.
+2024-11-19 22:29:59,851 - INFO - Page 7 processed successfully.
+2024-11-19 22:30:11,346 - INFO - Page 8 processed successfully.
+2024-11-19 22:30:22,789 - INFO - Page 9 processed successfully.
+2024-11-19 22:30:34,396 - INFO - Page 10 processed successfully.
+2024-11-19 22:30:47,935 - INFO - Page 11 processed successfully.
+2024-11-19 22:31:00,361 - INFO - Page 12 processed successfully.
+2024-11-19 22:31:15,627 - INFO - Page 13 processed successfully.
+2024-11-19 22:31:27,453 - INFO - Page 14 processed successfully.
+2024-11-19 22:31:39,998 - INFO - Page 15 processed successfully.
+2024-11-19 22:31:51,789 - INFO - Page 16 processed successfully.
+2024-11-19 22:32:03,153 - INFO - Page 17 processed successfully.
+2024-11-19 22:32:14,751 - INFO - Page 18 processed successfully.
+2024-11-19 22:32:26,227 - INFO - Page 19 processed successfully.
+2024-11-19 22:32:37,520 - INFO - Page 20 processed successfully.
+2024-11-19 22:32:48,804 - INFO - Page 21 processed successfully.
+2024-11-19 22:33:00,237 - INFO - Page 22 processed successfully.
+2024-11-19 22:33:11,518 - INFO - Page 23 processed successfully.
+2024-11-19 22:33:22,909 - INFO - Page 24 processed successfully.
+2024-11-19 22:33:34,314 - INFO - Page 25 processed successfully.
+2024-11-19 22:33:45,834 - INFO - Page 26 processed successfully.
+2024-11-19 22:33:57,314 - INFO - Page 27 processed successfully.
+2024-11-19 22:34:08,532 - INFO - Page 28 processed successfully.
+2024-11-19 22:34:19,990 - INFO - Page 29 processed successfully.
+2024-11-19 22:34:31,528 - INFO - Page 30 processed successfully.
+2024-11-19 22:34:43,143 - INFO - Page 31 processed successfully.
+2024-11-19 22:34:54,641 - INFO - Page 32 processed successfully.
+2024-11-19 22:35:06,250 - INFO - Page 33 processed successfully.
+2024-11-19 22:35:17,779 - INFO - Page 34 processed successfully.
+2024-11-19 22:35:29,302 - INFO - Page 35 processed successfully.
+2024-11-19 22:35:40,783 - INFO - Page 36 processed successfully.
+2024-11-19 22:35:52,182 - INFO - Page 37 processed successfully.
+2024-11-19 22:36:03,687 - INFO - Page 38 processed successfully.
+2024-11-19 22:36:15,267 - INFO - Page 39 processed successfully.
+2024-11-19 22:36:26,738 - INFO - Page 40 processed successfully.
+2024-11-19 22:36:38,175 - INFO - Page 41 processed successfully.
+2024-11-19 22:36:49,470 - INFO - Page 42 processed successfully.
+2024-11-19 22:37:00,845 - INFO - Page 43 processed successfully.
+2024-11-19 22:37:12,097 - INFO - Page 44 processed successfully.
+2024-11-19 22:37:23,723 - INFO - Page 45 processed successfully.
+2024-11-19 22:37:35,202 - INFO - Page 46 processed successfully.
+2024-11-19 22:37:46,823 - INFO - Page 47 processed successfully.
+2024-11-19 22:37:58,221 - INFO - Page 48 processed successfully.
+2024-11-19 22:38:09,680 - INFO - Page 49 processed successfully.
+2024-11-19 22:38:21,178 - INFO - Page 50 processed successfully.
+2024-11-19 22:38:32,613 - INFO - Page 51 processed successfully.
+2024-11-19 22:38:44,200 - INFO - Page 52 processed successfully.
+2024-11-19 22:38:55,590 - INFO - Page 53 processed successfully.
+2024-11-19 22:39:06,898 - INFO - Page 54 processed successfully.
+2024-11-19 22:39:18,287 - INFO - Page 55 processed successfully.
+2024-11-19 22:39:29,832 - INFO - Page 56 processed successfully.
+2024-11-19 22:39:41,108 - INFO - Page 57 processed successfully.
+2024-11-19 22:39:52,424 - INFO - Page 58 processed successfully.
+2024-11-19 22:40:04,119 - INFO - Page 59 processed successfully.
+2024-11-19 22:40:15,640 - INFO - Page 60 processed successfully.
+2024-11-19 22:40:26,934 - INFO - Page 61 processed successfully.
+2024-11-19 22:40:38,196 - INFO - Page 62 processed successfully.
+2024-11-19 22:40:49,765 - INFO - Page 63 processed successfully.
+2024-11-19 22:41:01,314 - INFO - Page 64 processed successfully.
+2024-11-19 22:41:12,784 - INFO - Page 65 processed successfully.
+2024-11-19 22:41:24,303 - INFO - Page 66 processed successfully.
+2024-11-19 22:41:35,842 - INFO - Page 67 processed successfully.
+2024-11-19 22:41:47,213 - INFO - Page 68 processed successfully.
+2024-11-19 22:41:58,640 - INFO - Page 69 processed successfully.
+2024-11-19 22:42:10,008 - INFO - Page 70 processed successfully.
+2024-11-19 22:42:21,639 - INFO - Page 71 processed successfully.
+2024-11-19 22:42:33,225 - INFO - Page 72 processed successfully.
+2024-11-19 22:42:44,618 - INFO - Page 73 processed successfully.
+2024-11-19 22:42:56,320 - INFO - Page 74 processed successfully.
+2024-11-19 22:43:07,806 - INFO - Page 75 processed successfully.
+2024-11-19 22:43:19,205 - INFO - Page 76 processed successfully.
+2024-11-19 22:43:30,722 - INFO - Page 77 processed successfully.
+2024-11-19 22:43:42,256 - INFO - Page 78 processed successfully.
+2024-11-19 22:43:53,651 - INFO - Page 79 processed successfully.
+2024-11-19 22:44:05,380 - INFO - Page 80 processed successfully.
+2024-11-19 22:44:16,835 - INFO - Page 81 processed successfully.
+2024-11-19 22:44:28,233 - INFO - Page 82 processed successfully.
+2024-11-19 22:44:39,568 - INFO - Page 83 processed successfully.
+2024-11-19 22:44:51,232 - INFO - Page 84 processed successfully.
+2024-11-19 22:45:02,505 - INFO - Page 85 processed successfully.
+2024-11-19 22:45:14,022 - INFO - Page 86 processed successfully.
+2024-11-19 22:45:25,581 - INFO - Page 87 processed successfully.
+2024-11-19 22:45:36,992 - INFO - Page 88 processed successfully.
+2024-11-19 22:45:48,776 - INFO - Page 89 processed successfully.
+2024-11-19 22:46:00,275 - INFO - Page 90 processed successfully.
+2024-11-19 22:46:11,751 - INFO - Page 91 processed successfully.
+2024-11-19 22:46:23,098 - INFO - Page 92 processed successfully.
+2024-11-19 22:46:34,777 - INFO - Page 93 processed successfully.
+2024-11-19 22:46:47,068 - INFO - Page 94 processed successfully.
+2024-11-19 22:46:58,550 - INFO - Page 95 processed successfully.
+2024-11-19 22:47:09,952 - INFO - Page 96 processed successfully.
+2024-11-19 22:47:21,523 - INFO - Page 97 processed successfully.
+2024-11-19 22:47:33,013 - INFO - Page 98 processed successfully.
+2024-11-19 22:47:44,366 - INFO - Page 99 processed successfully.
+2024-11-19 22:47:55,830 - INFO - Page 100 processed successfully.
+2024-11-19 22:48:05,874 - INFO - Data written to file successfully.
+2024-11-19 22:48:05,888 - ERROR - An unexpected error occurred: Invalid metric name: Number of car information retrieved
+2024-11-19 22:48:05,905 - INFO - Starting data processing.
+2024-11-19 22:48:05,921 - INFO - Reading downloaded file.
+2024-11-19 22:48:05,978 - INFO - Cleaning data.
+2024-11-19 22:48:06,008 - INFO - Saving data to database.
+2024-11-19 22:48:11,731 - INFO - Moving file to archive.
+2024-11-19 22:48:11,747 - INFO - Data processing completed.
