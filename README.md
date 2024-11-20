@@ -3,7 +3,7 @@ AutoCheck Car Listings - Data Extraction and Analytics
 
 Project Overview
 -------------------
-The Car Crawler project aims to design and implement a web scraping application that extracts comprehensive car listing information from https://www.jiji.ng, a popular online marketplace in Nigeria.
+The etl project aims to design and implement a web scraping application that extracts comprehensive car listing information from https://www.jiji.ng, a popular online marketplace in Nigeria.
 
 Objectives
 ------------
